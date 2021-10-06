@@ -1,0 +1,118 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 Jan 2020, 18:54:17
+    Author     : marco
+*/
+
+.btn-circle {
+    width: 45px !important;
+    height: 45px !important;
+    line-height: 45px !important;
+    text-align: center !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+}
+
+.btn-circle i {
+    position: relative;
+    top: -1px;
+}
+
+.btn-circle-sm {
+    width: 35px !important;
+    height: 35px !important;
+    line-height: 36px !important;
+    font-size: 0.9rem !important;
+}
+
+.btn-circle-lg {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 1.1rem;
+}
+
+.btn-circle-xl {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 1.3rem;
+}
+
+/* Card Borders*/
+
+.border-left-primary {
+    border-left: .25rem solid #4e73df !important;
+}
+
+.border-bottom-primary {
+    border-bottom: .25rem solid #4e73df !important;
+}
+
+.border-left-secondary {
+    border-left: .25rem solid #858796 !important;
+}
+
+.border-bottom-secondary {
+    border-bottom: .25rem solid #858796 !important;
+}
+
+.border-left-success {
+    border-left: .25rem solid #1cc88a !important;
+}
+
+.border-bottom-success {
+    border-bottom: .25rem solid #1cc88a !important;
+}
+
+.border-left-info {
+    border-left: .25rem solid #36b9cc !important;
+}
+
+.border-bottom-info {
+    border-bottom: .25rem solid #36b9cc !important;
+}
+
+.border-left-warning {
+    border-left: .25rem solid #f6c23e !important;
+}
+
+.border-bottom-warning {
+    border-bottom: .25rem solid #f6c23e !important;
+}
+
+.border-left-danger {
+    border-left: .25rem solid #e74a3b !important;
+}
+
+.border-bottom-danger {
+    border-bottom: .25rem solid #e74a3b !important;
+}
+
+.border-left-light {
+    border-left: .25rem solid #f8f9fc !important;
+}
+
+.border-bottom-light {
+    border-bottom: .25rem solid #f8f9fc !important;
+}
+
+.border-left-dark {
+    border-left: .25rem solid #5a5c69 !important;
+}
+
+.border-bottom-dark {
+    border-bottom: .25rem solid #5a5c69 !important;
+}
+
+thead .thead-light {
+    border-bottom: #C5C5C5 solid 1px;
+}
+
+.max_screen_size{
+    max-width: 1500px!important;
+}

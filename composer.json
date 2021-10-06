@@ -1,0 +1,14 @@
+{
+    "name": "marcos/algolia",
+    "description": "Test Algolia API",
+    "type": "project",
+    "require": {
+        "algolia/algoliasearch-client-php": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Marcos Hernandez",
+            "email": "marcosh.vzla@gmail.com"
+        }
+    ]
+}

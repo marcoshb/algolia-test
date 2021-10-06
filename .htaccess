@@ -1,0 +1,6 @@
+Options -Indexes
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} (\.\w+$) [NC]
+RewriteRule ^(.*)$ public/$1
